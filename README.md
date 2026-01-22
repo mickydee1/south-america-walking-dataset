@@ -29,7 +29,6 @@ Each day of collection consists of:
 
 Segmented egocentric video clips (multiple per day)
 
-Segment-level GPS start and end screenshots
 
 Daily GPS start and end screenshots
 
